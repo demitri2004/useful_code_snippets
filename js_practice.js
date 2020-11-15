@@ -3,7 +3,6 @@
 var list = [3,1,5,2,4,9,7,6,8];
 //console.log(list.length);
 
-
 function SelectionSort(list) {
   for(var i=0; i < list.length;  i++) {
     var smallestElement = list[i]
